@@ -1,6 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 ## I am Aditya Deokar currently pursuing Bachelor of Technology in Computer Science
-  This is my GitHub Profile
+  This is my GitHub Profile, I'm an Android Developer and Software Developer Enthusiast 
+### Skills
+  https://www.python.org
+
+  
+
 <!--
 **Aditya2874/Aditya2874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
