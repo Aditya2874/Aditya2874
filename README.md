@@ -1,5 +1,6 @@
 ### Hi there 👋
-Hello, I am Aditya Deokar currently a student at Indian Institute of Information Technology, Nagpur
+## I am Aditya Deokar currently pursuing Bachelor of Technology in Computer Science
+  This is my GitHub Profile
 <!--
 **Aditya2874/Aditya2874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
